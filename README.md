@@ -1,2 +1,2 @@
 # ML_Feature_Engineering
-###This project utilized supervised learning, ensemble modeling, and unsupervised techniques to develop a prediction model for identifying the Pass/Fail yield in a semiconductor manufacturing process. It aimed to pinpoint factors driving yield excursions and enhance process efficiency. This approach improves throughput, reduces learning time, and lowers production costs per unit.
+The project focused on using feature engineering, alongside supervised, ensemble, and unsupervised learning, to build a prediction model for identifying Pass/Fail yield in a semiconductor manufacturing process. By uncovering key factors affecting yield excursions, the model helps improve process efficiency, reduce learning time, and lower production costs per unit.
